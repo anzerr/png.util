@@ -1,6 +1,6 @@
 ### `Intro`
 
-Simple PNG encoder/decoder for Node.js with no dependencies. (fork from)[https://github.com/lukeapage/pngjs]
+Simple PNG encoder/decoder for Node.js with no dependencies. [fork from](https://github.com/lukeapage/pngjs)
 
 #### `Install`
 
