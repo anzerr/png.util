@@ -25,17 +25,17 @@
 	"license": "MIT",
 	"contributors": [
 		"Alexandre Paré",
+		"Eugene Kulabuhov",
 		"Gaurav Mali",
 		"Gusts Kaksis",
 		"Kuba Niegowski",
 		"Luke Page",
+		"Michael Vogt",
 		"Pietajan De Potter",
 		"Steven Sojka",
-		"liangzeng",
-		"Michael Vogt",
 		"Xin-Xin Wang",
-		"toriningen",
-		"Eugene Kulabuhov"
+		"liangzeng",
+		"toriningen"
 	],
 	"main": "./lib/png.js",
 	"directories": {
