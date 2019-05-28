@@ -14,15 +14,16 @@
 		"png-parse",
 		"pngjs"
 	],
-	"homepage": "https://github.com/anzerr/png.util",
+	"homepage": "https://github.com/anzerr/pngjs#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/png.util/issues"
+		"url": "https://github.com/anzerr/pngjs/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/anzerr/png.util.git"
+		"url": "git@github.com:anzerr/pngjs.git"
 	},
 	"license": "MIT",
+	"author": "anzerr",
 	"contributors": [
 		"Alexandre Paré",
 		"Eugene Kulabuhov",
@@ -38,6 +39,7 @@
 		"toriningen"
 	],
 	"main": "./lib/png.js",
+	"types": "./lib/png.d.ts",
 	"directories": {
 		"example": "examples"
 	},
@@ -51,7 +53,7 @@
 	"devDependencies": {
 		"buffer-equal": "1.0.0",
 		"connect": "^3.4.0",
-		"eslint": "^3.2.2",
+		"eslint": "5.11.1",
 		"istanbul": "^0.4.4",
 		"phantomjs-prebuilt": "^2.1.7",
 		"serve-static": "^1.10.0",
@@ -59,6 +61,6 @@
 		"tape": "^4.0.2"
 	},
 	"engines": {
-		"node": ">=4.0.0"
+		"node": ">= 0.10.0"
 	}
 }
