@@ -14,13 +14,13 @@
 		"png-parse",
 		"pngjs"
 	],
-	"homepage": "https://github.com/anzerr/pngjs#readme",
+	"homepage": "https://github.com/anzerr/png.util#readme",
 	"bugs": {
-		"url": "https://github.com/anzerr/pngjs/issues"
+		"url": "https://github.com/anzerr/png.util/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:anzerr/pngjs.git"
+		"url": "git@github.com:anzerr/png.util.git"
 	},
 	"license": "MIT",
 	"author": "anzerr",
