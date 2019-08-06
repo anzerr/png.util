@@ -1,15 +1,12 @@
 ### `Intro`
-
 Simple PNG encoder/decoder for Node.js with no dependencies. [fork from](https://github.com/lukeapage/pngjs)
 
 #### `Install`
-
 ```bash
-npm install --save git+https://git@github.com/anzerr/png.util.git
+npm install --save git+https://github.com/anzerr/png.util.git
 ```
 
 ### `Example`
-
 ```javascript
 var fs = require('fs'),
     PNG = require('png.util').PNG;
