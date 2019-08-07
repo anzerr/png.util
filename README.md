@@ -2,8 +2,9 @@
 Simple PNG encoder/decoder for Node.js with no dependencies. [fork from](https://github.com/lukeapage/pngjs)
 
 #### `Install`
-```bash
+``` bash
 npm install --save git+https://github.com/anzerr/png.util.git
+npm install --save @anzerr/png.util
 ```
 
 ### `Example`
