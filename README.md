@@ -1,4 +1,6 @@
 ### `Intro`
+![GitHub Actions status | publish](https://github.com/anzerr/png.util/workflows/publish/badge.svg)
+
 Simple PNG encoder/decoder for Node.js with no dependencies. [fork from](https://github.com/lukeapage/pngjs)
 
 #### `Install`
