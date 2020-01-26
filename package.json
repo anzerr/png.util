@@ -50,6 +50,9 @@
 		"test": "npm run lint && tape test/*-spec.js | tap-dot && node test/run-compare",
 		"lint": "eslint lib"
 	},
+	"eslintConfig": {
+		"extends": "eslint-config-basic"
+	},
 	"devDependencies": {
 		"eslint": "^6.8.0",
 		"eslint-config-basic": "git+https://git@github.com/anzerr/eslintrc.git",
